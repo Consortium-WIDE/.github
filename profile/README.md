@@ -1,6 +1,6 @@
 ---
-version: 0.1
-Last Edit: 2024-02-29
+version: 0.2
+Last Edit: 2024-04-26
 tags: WIDE, EUDIW, DID, claims
 email: bb@acurraent.com
 authors: benedictvscriticus
