@@ -48,9 +48,7 @@ WIDE is a direct response to the high market fragmentation and low interoperabil
 
 Holders, i.e. end-users, currently have to manage a number of different authentication mechanisms used by Verifiers to allow for their credentials to be verified. WIDE proposes a solution to the fragmentation of Holder claims being spread across multiple sources and multiple standards by bridging the gap between the different models. It provides the Holder with the ability to capture and store claims securely from different identity providers remotely, while linking such claims to their Web3 wallet. Furthermore, WIDE aims to provide Verifiers with the option to interact with the Holder via either OAuth or Web3 to ensure future-proofing.
 
-
-
-
+---
 
 ## Disclaimer
 
