@@ -1,11 +1,11 @@
 ---
-version: 0.2
+version: 1.1
 Last Edit: 2024-04-26
-tags: WIDE, EUDIW, DID, claims
+tags: WIDE, authbond, procurement, DID, Web3
 email: bb@acurraent.com
 authors: benedictvscriticus
 ---
-# WIDE - Web3 Idendity for Education and DAOs
+# WID3+ Consortium
 
 ![WIDE_header](https://github.com/Consortium-WIDE/.github/assets/104435781/315611f2-c062-4c63-bb66-2a527938c704)
 
@@ -28,6 +28,6 @@ Holders, i.e. end-users, currently have to manage a number of different authenti
 
 ## Disclaimer
 
-This research and development project is part of the **[NGI TRUSTCHAIN #OC1](https://trustchain.ngi.eu/wide/)**. All software code is provided as is and without warranty under permissible EUPL 1.2 licencing. This project is funded by a cascade funding partner through a Horizon Europe Grant under the TrustChain grant with grant agreement number: [101093274](https://doi.org/10.3030/101093274).
+This research and development project is part of the **[NGI TRUSTCHAIN FRAMEWORK](https://trustchain.ngi.eu/wide/)**. All software code is provided as is and without warranty under permissible EUPL 1.2 licencing. This project is funded by a cascade funding partner through a Horizon Europe Grant under the TrustChain grant with grant agreement number: [101093274](https://doi.org/10.3030/101093274).
 
 ![NGI EU Funding](resources/Funded_by_NGI_TC_EU.svg)
