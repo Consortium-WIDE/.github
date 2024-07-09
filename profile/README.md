@@ -27,6 +27,15 @@ At the time of writing, the consortium consists of the following representatives
 
 Our product portfolio currently consists of the WIDE solution and AUTHBOND, which is currently under development. WIDE is the identity engine of our solution suite, whereas AUTHBOND provides extended mediation and smart contract funtionalities.
 
+### AUTHBOND
+
+Contracting in Web3 has an accountability problem because the pseudonymity of contributors diminishes their eagerness to focus on delivery. To address this shortcoming, AUTHBOND combines smart contract-based bid bonds with digital identity. AUTHBOND incorporates learnings from conventional public and private sector contracting and applies it to Web3. The platform is designed to provide transparency to digital trade and democratise on-chain economies.
+
+#### Abstract
+*Bid bonds can effectively mitigate risks associated with project defaults, particularly in grant programs that currently rely on milestone-based payments by requiring contractors to deposit a security. AUTHBOND proposes to replace traditional centralised third parties with a combination of Web3 credentials and staking contracts. This innovative solution not only streamlines the process but also introduces more efficient contracting methods in Web3 and beyond. These privacy-preserving yet metadata-rich bonds can induce legitimacy for digital identities that are part of the TrustChain Large Scale Pilot (LSP) and provide utility for the WIDE solution by bolstering industry adoption, as well as increasing transparency for users contracting in Web3. Through the use case of awarding contracts for running nodes of a decentralised remote procedure call (RPC) network and together with the RPC gateway provider PORTERS, we want to bring the next generation of services procurement to users of Web3 and the TrustChain platform.*
+
+---
+
 ### WIDE
 
 #### Abstract
