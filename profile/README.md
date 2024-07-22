@@ -5,9 +5,10 @@ tags: WIDE, authbond, procurement, DID, Web3
 email: bb@acurraent.com
 authors: benedictvscriticus
 ---
-# WID3+ Consortium
 
 ![overview_WID3+](https://github.com/user-attachments/assets/979e6b4f-9df1-4231-ae3a-cb0788d59c0b)
+
+# WID3+ Consortium
 
 ## About
 
