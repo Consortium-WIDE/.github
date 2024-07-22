@@ -1,12 +1,13 @@
 ---
-version: 1.1
-Last Edit: 2024-07-09
+version: 1.2
+Last Edit: 2024-07-23
 tags: WIDE, authbond, procurement, DID, Web3
 email: bb@acurraent.com
 authors: benedictvscriticus
 ---
 # WID3+ Consortium
 
+![overview_WID3+](https://github.com/user-attachments/assets/979e6b4f-9df1-4231-ae3a-cb0788d59c0b)
 
 ## About
 
@@ -24,6 +25,7 @@ At the time of writing, the consortium consists of the following representatives
 - [Joshua Ellul](https://www.linkedin.com/in/joshuaellul/), Associate Professor and Director, Centre for Distributed Ledger Technology, University of Malta, Malta
 
 ## Product Portfolio
+
 
 Our product portfolio currently consists of the WIDE solution and AUTHBOND, which is currently under development. WIDE is the identity engine of our solution suite, whereas AUTHBOND provides extended mediation and smart contract funtionalities.
 
